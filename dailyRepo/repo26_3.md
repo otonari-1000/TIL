@@ -10,5 +10,9 @@
 - github pull request & merge実施
 - CSS Modules調査
 
-## 明日予定
-- プルリク、マージ、コマンド追記
+## 3/14
+- todolistコンポーネント CSS Modules適用
+- todolist リスト要素が0場合の表示追加
+
+## 次回予定
+- コンポーネント配置、達成済みリストコンポーネント作成

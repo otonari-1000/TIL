@@ -30,7 +30,7 @@ title → Button_title__3fj2k
 ### ① CSS Modulesファイルを作る
 
 ファイル名は .module.css にする。
-```
+```css
 /* Button.module.css */
 
 .button {
